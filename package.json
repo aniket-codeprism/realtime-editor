@@ -1,7 +1,7 @@
 {
   "name": "realtime-editor",
   "version": "0.1.0",
-  "homepage": "https://aniket-codeprism.github.io/realtime-editor",
+  "homepage": "https://aniket-codeprism.github.io",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.3",
