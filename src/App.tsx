@@ -12,8 +12,8 @@ function App() {
       </div>
       <BrowserRouter>
         <Routes>
-          <Route path="/realtime-editor" element={<HomePage />}></Route>
-          <Route path="/realtime-editor/editor/:roomId" element={<EditorPage />}></Route>
+          <Route path="/" element={<HomePage />}></Route>
+          <Route path="/editor/:roomId" element={<EditorPage />}></Route>
         </Routes>
       </BrowserRouter>
     </>
